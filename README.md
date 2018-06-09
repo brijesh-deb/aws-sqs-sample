@@ -13,7 +13,7 @@
 - Create jar file
   - mvn package -Dmaven.test.skip=true
 - Run the jar file
-	- java -jar spring-boot-jms-sqs-0.0.1-SNAPSHOT.jar
+	- java -jar spring-boot-jms-sqs-sample-0.0.1-SNAPSHOT.jar
 - Following console output should be displayed
   - ID received: 1111
   - Message received: Test SQS Message
