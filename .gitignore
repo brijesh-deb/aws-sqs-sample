@@ -1,0 +1,9 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+.classpath
+.settings/
+.project
+/logs/
+sonarlint.json
+/.sonarlint/
+application.log
